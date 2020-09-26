@@ -1,4 +1,4 @@
-# Web-Development-final-project-2017-
+# Web-Development-final-project-2020
 As a part of the web development training at internshala, individually i made a website named as E-store.
 
 The website deals with selling of electronic products (mostly mobile phones).
